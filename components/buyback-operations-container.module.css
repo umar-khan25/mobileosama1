@@ -1,0 +1,48 @@
+.buybackOperations,
+.strategicBuybackMissions {
+  width: 279px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.buybackOperations {
+  line-height: 32px;
+  font-weight: 600;
+}
+.strategicBuybackMissions {
+  font-size: var(--paragraph-body-size);
+  line-height: 150%;
+  color: var(--color-darkslategray-100);
+}
+.buybackOperationsParent {
+  position: absolute;
+  top: 24px;
+  left: 24.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px 0;
+}
+.fcb7eabB534485bB0e9B79cbdaIcon {
+  position: absolute;
+  top: 198.4px;
+  left: calc(50% - 148.45px);
+  border-radius: 15.27px;
+  width: 296.9px;
+  height: 282.7px;
+  object-fit: cover;
+}
+.frameParent {
+  width: 328.3px;
+  position: relative;
+  border-radius: var(--br-base);
+  background-color: var(--color-whitesmoke-100);
+  height: 496.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--www-apple-com-iphone-15-1600x900-default-shark);
+  font-family: var(--font-inter);
+}

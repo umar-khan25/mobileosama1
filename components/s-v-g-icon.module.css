@@ -1,0 +1,56 @@
+.globalnavMenutriggerBreadBoIcon,
+.globalnavMenutriggerBreadToIcon {
+  position: absolute;
+  width: 77.72%;
+  top: 69.41%;
+  right: 11.23%;
+  left: 11.05%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0;
+  display: none;
+}
+.globalnavMenutriggerBreadToIcon {
+  top: 27.84%;
+}
+.buyOwif,
+.linkBuyIphone15 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buyOwif {
+  width: 24px;
+  position: relative;
+  line-height: 36px;
+  font-weight: 600;
+  height: 14px;
+  flex-shrink: 0;
+}
+.linkBuyIphone15 {
+  position: absolute;
+  height: 30%;
+  width: 95.09%;
+  top: 32.55%;
+  right: 2.63%;
+  bottom: 37.45%;
+  left: 2.28%;
+  border-radius: var(--br-961xl);
+  background-color: var(
+    --www-apple-com-iphone-15-1600x900-default-science-blue
+  );
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-21xl);
+  box-sizing: border-box;
+}
+.svg {
+  width: 57px;
+  position: relative;
+  height: 51px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-8xs);
+  color: var(--www-apple-com-iphone-15-1600x900-default-nero);
+  font-family: var(--font-inter);
+}

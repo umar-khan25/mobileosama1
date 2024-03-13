@@ -1,0 +1,84 @@
+.welcomeToOwif {
+  margin: 0;
+}
+.osamaWifHat {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.welcomeToOwifContainer1 {
+  width: 100%;
+}
+.warAgainstBanks,
+.welcomeToOwifContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.welcomeToOwifContainer {
+  width: 327px;
+  letter-spacing: 0.4px;
+  line-height: 130%;
+  font-weight: 600;
+}
+.warAgainstBanks {
+  width: 274.2px;
+  font-size: var(--paragraph-body-size);
+  line-height: 150%;
+  color: var(--color-gray-300);
+  justify-content: center;
+}
+.welcomeToOwifOsamaWifHaParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px 0;
+}
+.buyNowOnContainer {
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.linkBuyIphone15 {
+  width: 327px;
+  border-radius: var(--br-961xl);
+  background-color: var(
+    --www-apple-com-iphone-15-1600x900-default-science-blue
+  );
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-21xl);
+  box-sizing: border-box;
+  font-size: var(--paragraph-body-size);
+  color: var(--www-apple-com-iphone-15-1600x900-default-nero);
+}
+.enlistInThe,
+.frameGroup,
+.linkBuyIphone15 {
+  display: flex;
+  align-items: center;
+}
+.frameGroup {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 36px 0;
+}
+.enlistInThe {
+  width: 327px;
+  position: relative;
+  font-size: var(--paragraph-body-size);
+  line-height: 150%;
+  color: var(--color-dimgray-300);
+  justify-content: center;
+}
+.frameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px 0;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-inter);
+}
